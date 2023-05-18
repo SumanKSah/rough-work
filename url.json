@@ -1,10 +1,8 @@
 {
    "PageUrl": [
-       "https://www.linkedin.com/sales/widget/profile-matching/",
        "localapp/iframe.html"
    ],
    "FrameUrl": [
-       "url3",
-       "url4"
+       "https://www.linkedin.com/sales/widget/profile-matching/"
    ]
 }
