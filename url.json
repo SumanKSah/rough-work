@@ -1,7 +1,8 @@
 {
    "PageUrl": [
        "www.google.com",
-       "www.yahoo.com"
+       "www.yahoo.com",
+       "localapp/iframe.html"
    ],
    "FrameUrl": [
        "url3",
