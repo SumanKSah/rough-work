@@ -3,6 +3,7 @@
        "localapp/iframe.html"
    ],
    "FrameUrl": [
-       "https://www.linkedin.com/sales/widget/profile-matching/"
+       "https://www.linkedin.com/sales/widget/profile-matching/",
+       "https://www.linkedin.com/sales/widget/contract-chooser"
    ]
 }
