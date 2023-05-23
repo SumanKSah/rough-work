@@ -1,8 +1,12 @@
 {
    "PageUrl": [
+       "png.allstate.com/AllstateCTSNG-PT/Desktop/ClientPaymentPreference",
        "localapp/iframe.html"
    ],
    "FrameUrl": [
-       "https://www.linkedin.com/sales/widget/profile-matching/"
+       "https://www.linkedin.com/sales/widget/profile-matching/",
+       "https://www.linkedin.com/sales/widget/contract-chooser",
+       "https://www.linkedin.com/sales/widget/company-matching",
+       "sandbox.lightbox.mastercardsend.com/"
    ]
 }
